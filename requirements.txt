@@ -3,4 +3,4 @@ uproot
 matplotlib
 plotly
 seaborn
-yaml
+pyyaml
